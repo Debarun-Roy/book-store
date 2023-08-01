@@ -485,7 +485,7 @@ class book_store
       }
       System.out.println("---Thank You for placing your order---");
       System.out.println("---Please wait till your transaction is being processed---");
-      System.out.println("S.No.\tName of Item\t\t\t\t\t\t\t\t\t\tUnit Price\t\tQuantity\tDiscount\tDiscount Amount\tAmount");
+      System.out.println("S.No.\tName of Item\t\t\t\t\t\t\t\t\t\tUnit Price\tQuantity\tDiscount\tDiscount Amount\tAmount");
       for(i=0;i<30;i++)
       {
           if(ob.c[i]==1)
